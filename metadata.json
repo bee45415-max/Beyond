@@ -1,0 +1,6 @@
+{
+  "name": "Chronicles of Alden: Stage 1",
+  "description": "Stage 1 foundation of an original 2D open-world action RPG and fighting game, featuring responsive landscape controls, smooth camera, starting village, forest, mine, and original character.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
